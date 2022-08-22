@@ -1,2 +1,3 @@
 this is another file
 second change
+this is first one for squash.
